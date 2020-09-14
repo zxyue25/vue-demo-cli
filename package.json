@@ -1,0 +1,34 @@
+{
+    "name": "vue-demo-cli",
+    "version": "1.0.0",
+    "description": "仿照vue-cli学习实现一个简单的脚手架",
+    "main": "index.js",
+    "dependencies": {
+      "chalk": "^4.1.0",
+      "commander": "^6.1.0",
+      "download-git-repo": "^3.0.2",
+      "handlebars": "^4.7.6",
+      "inquirer": "^7.3.3",
+      "log-symbols": "^4.0.0",
+      "ora": "^5.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/zxyue25/vue-demo-cli.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/zxyue25/vue-demo-cli/issues"
+    },
+    "bin": {
+      "cli": "index.js"
+    },
+    "homepage": "https://github.com/zxyue25/vue-demo-cli#readme"
+  }
+  
